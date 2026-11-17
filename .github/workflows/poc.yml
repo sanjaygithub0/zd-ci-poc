@@ -18,6 +18,6 @@ jobs:
       app_names: pocapp
       region: europe
       runner: ubuntu-latest
-      e2e_repo: OWNER/REPO
+      e2e_repo: sanjaygithub0/zd-ci-poc
       e2e_projects: '["chromium"]'
       e2e_bucket_name: poc-bucket
